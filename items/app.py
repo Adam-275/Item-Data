@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_gsheets import GSheetsConnection
+from st_gsheet_connection import GSheetsConnection
 import pandas as pd
 
 st.title("Item Data")
