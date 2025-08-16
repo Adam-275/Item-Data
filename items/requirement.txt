@@ -1,3 +1,4 @@
 streamlit
 st-gsheet-connection
 streamlit-gsheets
+git+https://github.com/streamlit/gsheets-connection
